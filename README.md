@@ -21,9 +21,9 @@ go to client directory and write `npm run start` to run the react app.
 You are good to go to use this app. 
 
 ## Features Implemented till now - 
-### Sign up
-### Log in
-### See posts
-### Create posts
-### Like Post
-### Log out
+`Sign up`
+`Log in`
+`See posts`
+`Create posts`
+`Like Post`
+`Log out`
